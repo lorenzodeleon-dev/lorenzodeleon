@@ -17,6 +17,7 @@ GitHub Pages
 -Matlab simulations of quarter-car model
 -Mechanical dynamics models of suspension system
 -FEA of motorcyle components 
+-Ideation and fabraction of suspension components
 
 #Contact Information
 Email:ldeleon9426@gmail.com
